@@ -46,6 +46,7 @@ Você receberá planilhas não normalizadas que deverão ser normalizadas e popu
 ```bash
 docker-compose up -d
 docker exec -it one_for_all bash
+npm install # instala as dependencias da aplicação
 npm test # roda todos os testes
 npm test -- -t "01" # rodando apenas o teste do requisito 01
 ```
