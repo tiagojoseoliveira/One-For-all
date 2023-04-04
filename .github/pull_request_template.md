@@ -42,19 +42,22 @@ Neste projeto você irá:
 
 A medida que for concluindo os requisitos vá marcando aqui qual requisito você terminou.
 
-- [ ] 1. Normalize as tabelas para a 3ª Forma Normal
-- [ ] 2. Exibe as estatísticas musicais
-- [ ] 3. Exibe o histórico de reprodução para cada pessoa usuária
-- [ ] 4. Exibe a condição do usuário se está ativo ou inativo
-- [ ] 5. Exibe top 2 hits mais tocados no momento
-- [ ] 6. Exibe o relatório de faturamento da empresa
-- [ ] 7. Exibe uma relação de todos os álbuns produzidos por cada artista
-- [ ] 8. Exibe uma relação de álbuns produzidos pelo artista Elis Regina
-- [ ] 9. Exibe a quantidade de músicas que estão presentes atualmente no histórico de reprodução da pessoa usuária Barbara Liskov
-- [ ] 10. Exibe o nome e a quantidade de vezes que cada canção foi tocada por pessoas usuárias do plano gratuito ou pessoal
+- [ ] 01. Normalize as tabelas para a 3ª Forma Normal
+- [ ] 02. Exibe as estatísticas musicais
+- [ ] 03. Exibe o histórico de reprodução para cada pessoa usuária
+- [ ] 04. Exibe a condição da pessoa usuária se está ativa ou inativa
+- [ ] 05. Exibe top 2 hits mais tocados no momento
+- [ ] 06. Exibe o relatório de faturamento da empresa
+- [ ] 07. Exibe uma relação de todos os álbuns produzidos por cada artista
+- [ ] 08. Exibe uma relação de álbuns produzidos pela artista Elis Regina
+- [ ] 09. Exibe a quantidade de músicas no histórico de Barbara Liskov
+
 
 ## Requisitos bônus
 
-- [ ] 11. Exibe nomes de musicas em sua forma normal e com string trocada
+- [ ] 10. Normalize a tabela de canções favoritas para a 3ª Forma Normal
+- [ ] 11. Exibe o top 3 de álbuns com mais músicas favoritadas
+- [ ] 12. Exibe o ranking de pessoas artistas
+- [ ] 13. Exibe a relação de pessoas usuárias e favoritadas por faixa etária
 
 Desejamos um bom projeto para todas as pessoas estudantes e que seja fonte de muito aprendizado. ✌️
